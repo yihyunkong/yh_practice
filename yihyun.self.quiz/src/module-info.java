@@ -1,0 +1,2 @@
+module yihyun.self.quiz {
+}
